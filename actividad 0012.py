@@ -64,3 +64,4 @@ for datos in propietarios.values():
 
 print(f"\nTotal de vehículos con impuesto pagado: {pagados}")
 print(f"Total de vehículos sin pagar: {no_pagados}")
+
